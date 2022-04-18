@@ -1,2 +1,1 @@
-tcp://62.76.145.81:80 tcp://62.76.145.80:80 tcp://62.76.145.85:80 tcp://62.76.145.83:80 
-https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru --http-methods GET --table
+tcp://62.76.145.81:80 tcp://62.76.145.80:80 tcp://62.76.145.85:80 tcp://62.76.145.83:80 https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/ https://ismp.crpt.ru --http-methods GET --table
