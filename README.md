@@ -1,2 +1,2 @@
-# targets_lists (temp)
-for tests
+# targets_lists
+for Gcloudshell_ddos
